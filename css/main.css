@@ -1,0 +1,206 @@
+@charset "utf-8";
+/* CSS Document */
+.none
+{
+	width: 100%;
+	height: auto;
+    background-color:whitesmoke;
+}
+.banner
+{
+	width: 100%;
+	height: 70px;
+    background-color:darksalmon;
+}
+	.banner1
+{
+	width: 15%;
+	height: 70px;
+    background-color:darksalmon;
+	float:left;
+}
+img.cangiua {display: block; margin-left: auto; margin-right: auto;margin-bottom: auto; margin-top: auto}
+
+   .banner2
+{
+	width: 85%;
+	height: 70px;
+    background-color:darksalmon;
+	float:right;
+}	
+ul li 
+{
+list-style: none ; padding: 0;
+	 
+	
+
+	
+}
+ul li
+{float: right;
+	padding: 2px 30px 30px 30px ;
+    position:relative;
+ font-style :normal;
+ font-size:15px;
+
+}
+ul li a
+{
+text-decoration: none;
+}
+ul li:hover 
+{
+	border-bottom:  solid 4px #FFD70B;
+	
+	
+}	
+ul li ul
+{
+	
+	position:absolute;
+	top: 33px ;
+	left: auto;
+	right: 0;
+	
+	
+	visibility: hidden   ;
+	
+}
+ul li ul li
+{
+	width: 86px;
+	background-color:black;
+   margin: 0;
+		
+	
+	
+	
+}
+ul	li:hover ul
+{
+visibility: visible;
+
+
+
+}
+
+.container
+{
+	width: 100%;
+	height: 240px;
+	background-color:aqua;
+	
+	
+}
+	.container1
+{
+	width:40%;
+	height:240px;
+	background-color:antiquewhite;
+	float: left;	
+	
+}	
+	img.ogiua {display: block; margin-left: auto; margin-right: auto;margin-bottom: auto; margin-top: 20px}	
+.container2
+{
+	width:60%;
+	height: 240px;
+	background-color:antiquewhite;
+	float: right;	
+	
+}			
+.middle
+{
+	width:100%;
+	height: 282px;
+	background-color: darkslategray;
+		
+	
+}					
+
+.midtop
+{
+	width:100%;
+	height: 60px;
+	background-color: darkslategray;
+	
+		
+}					
+.midleft
+{
+	width:50%;
+	height: 222px;
+	background-color: darkslategray;
+	float: left;
+		
+	
+}					
+	
+	img.giua {display: block; margin-left: auto; margin-right: auto;margin-bottom: auto; margin-top: auto}
+
+.low
+{
+	width:100%;
+	height: 282px;
+	background-color: antiquewhite;
+		
+	
+}					
+.lowbd
+{
+	width:50%;
+	height: 282px;
+	background-color: antiquewhite;
+	float: left;
+		
+	
+}		
+.lowtop
+{
+	width:100%;
+	height: 60px;
+	background-color: antiquewhite;
+	
+}
+.lowhind
+{
+	width:60%;
+	height: 200PX;
+	background-color: whitesmoke;
+	margin: auto;
+	
+}
+
+img.omid 
+{ 
+	margin-top: 0px ; 
+	margin-left:80px;
+}
+img.omid2 
+{ 
+	margin-top:30px ; 
+	margin-left:100px;
+}
+.bot
+{
+	width:100%;
+	height: 170px;
+	background-color:darkslategray;
+	
+}
+.bott
+{
+	width:50%;
+	height: 70px;
+	background-color:darkslategray;
+	float: left;
+}	
+img.m 
+{ 
+	margin-top:1px ; 
+	margin-left:50px;
+	margin-right: 50px;
+}	
+	
+	
+	
